@@ -1,10 +1,14 @@
-* 따라하며 배우는 도커와 CI환경 강의 폴더 추가
+## 따라하며 배우는 도커와 CI환경 강의 폴더 추가
 
-John Ahn님 강의
-시간 : 10시간 6분
-강의 : 93강의
-주소 : https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci/dashboard
+#### John Ahn님 강의
 
+* 시간 : 10시간 6분
+
+* 강의 : 93강의
+
+* 주소 : https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci/dashboard
+
+<pre>
 섹션 0. 강의소개
 섹션 1. 도커와 AWS 업데이트로 인해 변화된 것들
 섹션 2. 도커 기본
@@ -18,3 +22,4 @@ John Ahn님 강의
 섹션 10. 복잡한 어플을 실제로 배포해보기(테스트 & 배포 부분)
 섹션 11. 강의 자료
 섹션 12. New Update
+</pre>
